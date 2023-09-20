@@ -1,0 +1,9 @@
+#headerImg {
+    height:500px;
+}
+
+#menu {
+    width:500px;
+    display:flex;
+    justify-items:space-between;
+}
